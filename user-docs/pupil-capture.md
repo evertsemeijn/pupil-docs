@@ -190,7 +190,7 @@ This method is for special situations and far distances. Usually not required.
 
 #### Camera Intrinsics Estimation
 
-This calibration plugin is used to calculate camera intrinsics, which will enable one to correct cor camera distortion. Pupil Capture has built in, default camera matrices for the high speed world camera and the high resolution world camera. You can re-calibrate your camera and/or calibrate a camera that is not supplied by Pupil Labs by running this calibration routine.
+This calibration plugin is used to calculate camera intrinsics, which will enable one to correct for camera distortion. Pupil Capture has built in, default camera matrices for the high speed world camera and the high resolution world camera. You can re-calibrate your camera and/or calibrate a camera that is not supplied by Pupil Labs by running this calibration routine.
 
 1. Select `Camera Intrinsics Estimation`
 1. Click on 'show pattern' to display the pattern
